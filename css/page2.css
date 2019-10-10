@@ -1,0 +1,11 @@
+.messi_god{
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+@media print{
+    #displayed{
+        display:none;
+    }
+}

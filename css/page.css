@@ -1,0 +1,26 @@
+.imagen{
+    width: 97%;
+}
+#footer{
+    width: 100%;
+}
+.inline{
+    margin-top: -20px;
+    display: inline-table;
+}
+
+@media print{
+    .disappear{
+        display: none!important;
+    }
+    body{
+        height: 97%;
+        padding-top: -100px;
+        padding-bottom: -800px;
+    }
+    #magnify{
+        width: 100%!important;
+        position: relative;
+        transform: translateY(20%);
+    }
+}
