@@ -1,5 +1,5 @@
 
-#           IGL2
+#           IGL2 HARDCODE
 
 How to print a part of a website in HTML CSS JAVASCRIPT
 #  print partially a website.
