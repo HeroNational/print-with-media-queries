@@ -8,7 +8,7 @@ That a template is for all one who have this problem in project like when they w
 
 made with love by  _WOO TARKOVSKI_
 
-#Impression partielle d'une page web.
+#  Impression partielle d'une page web.
 
 Comment imprimer une partie d'un site web et éliminer les parties inutiles? Juste en *HTML CSS JAVASCRIPT*
 
@@ -16,4 +16,4 @@ Ce templte est destiné à toute personne qui ont ce problème dans leur projet 
 
 Réaliser avec amour par _WOO TARKOVSKI_ 
 
-  #Kratos237 
+  # Kratos237 
